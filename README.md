@@ -1,23 +1,10 @@
 <h1 align="left">hello there 👋</h1>
 
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/jo%C3%A9-feucht/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:joefeucht67220@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-</div>
-
-###
-
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
-
-<p align="left">🔭 I’m a 24 yo software engineer student</p>
+<p align="left">- 🙍‍♂️ My name is Joé</p>
+<p align="left">- 🔭 I’m a 24 yo software engineer student</p>
 
 ###
 
@@ -45,6 +32,22 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+</div>
+
+###
+
+<h3 align="left">📞 Contact</h3>
+
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/jo%C3%A9-feucht/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:joefeucht67220@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
 </div>
 
 ###
