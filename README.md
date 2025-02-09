@@ -3,8 +3,10 @@
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
-<p align="left">- 🙍‍♂️ My name is Joé</p>
-<p align="left">- 🔭 I’m a 24 yo software engineer student</p>
+<ul align="left">
+  <li>🙍‍♂️ My name is Joé</li>
+  <li>🔭 I’m a 24 yo software engineer student</li>
+</ul>
 
 ###
 
